@@ -1,0 +1,49 @@
+body{
+    background: red; 
+     background: linear-gradient(to bottom right,deepskyblue,white,deepskyblue,white);
+    background-repeat: no-repeat;
+    background-size: 100% 10000%;
+}
+#box{
+    position: absolute;
+  border: 10px solid white;
+    left: 33%;
+    background-color: white;
+    z-index: 1;
+    top: 15%;
+    box-shadow: 0px 0px 2px 2px darkgrey;
+    width: 30%;
+    height: auto;
+}
+#heading{
+    position: relative;
+    left: 40%;
+    font-family: 'sofia';
+}
+font{
+    margin-left: 5%;
+}
+input:enabled{
+    border: none;
+    outline: none;
+     border-bottom: 1px solid darkgrey;
+}
+input{
+     border: none;
+     border-bottom: 1px solid darkgrey;
+    width: 90%;
+    height:2em;
+    margin-left: 5%;
+}
+#sub{
+    width: 20%;
+    background-color: deepskyblue;
+    position: relative;
+    left: 33%;
+    height: 3em;
+    border-radius: 5px;
+}
+#sub:hover{
+    cursor: pointer;
+    background-color: darkblue;
+}
