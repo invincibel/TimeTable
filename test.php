@@ -13,6 +13,7 @@
     <head>
         <title>Your Upcoming test</title>
         <link href='https://fonts.googleapis.com/css?family=Bangers' rel='stylesheet'>
+                <link rel="icon" href="logo.png">
         <style>
               body {margin: 0;
             overflow-x: hidden;

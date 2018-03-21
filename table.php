@@ -14,6 +14,7 @@
         <title>Your Time Table</title>
             <link href='https://fonts.googleapis.com/css?family=Amita' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
+                <link rel="icon" href="logo.png">
         <style>
                         body {margin: 0;}
             #upper{

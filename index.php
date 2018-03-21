@@ -12,6 +12,7 @@ if(isset($_SESSION['email']))
         <link rel="stylesheet" href="cssfiles/in.css">
         <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Aguafina Script' rel='stylesheet'>
+                <link rel="icon" href="logo.png">
     </head>
     <body>
       <div id="box">

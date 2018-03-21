@@ -13,6 +13,7 @@
     <head>
         <title>Add Something</title>
         <link href='https://fonts.googleapis.com/css?family=Amita' rel='stylesheet'>
+        <link rel="icon" href="logo.png">
         <style>
             body {margin: 0;}
 
