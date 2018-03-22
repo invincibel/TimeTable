@@ -25,10 +25,13 @@ CREATE TABLE `time` (
   `work` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+
 CREATE TABLE `user` (
   `name` varchar(20) NOT NULL,
   `email` varchar(50) NOT NULL,
   `pass` varchar(20) NOT NULL,
   `sex` text NOT NULL,
-  `image` text NOT NULL
+  `image` text NOT NULL,
+  `mobile` varchar(10) NOT NULL,
+  `college` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
