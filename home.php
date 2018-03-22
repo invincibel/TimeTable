@@ -155,7 +155,18 @@ var x = setInterval(function() {
     + minutes + "m " + seconds + "s ";
     if(minutes==30 && seconds==0)
         {
-            
+           alert( "<?php
+$url = 'https://rest.nexmo.com/sms/json?' . http_build_query([
+        'api_key' => bc831dec,
+        'api_secret' => WUEHJFr9N1R9aWxP,
+        'to' => 7291805363,
+        'from' => NEXMO,
+        'text' => 'Hello from Nexmo'
+    ]);
+
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$response = curl_exec($ch);")
         }
     // If the count down is over, write some text 
     if (distance < 0) {
