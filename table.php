@@ -12,6 +12,7 @@
 <html>
     <head>
         <title>Your Time Table</title>
+      <link rel="icon" href="logo.png">
             <link href='https://fonts.googleapis.com/css?family=Amita' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
         <style>
