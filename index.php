@@ -9,6 +9,7 @@ if(isset($_SESSION['email']))
 <html>
     <head>
         <title>SIGN_IN</title>
+     <link rel="icon" href="logo.png">
         <link rel="stylesheet" href="cssfiles/in.css">
         <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Aguafina Script' rel='stylesheet'>
