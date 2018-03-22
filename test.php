@@ -12,6 +12,7 @@
 <html>
     <head>
         <title>Your Upcoming test</title>
+      <link rel="icon" href="logo.png">
         <link href='https://fonts.googleapis.com/css?family=Bangers' rel='stylesheet'>
         <style>
               body {margin: 0;
