@@ -12,6 +12,7 @@
 <html>
     <head>
         <title>Add Something</title>
+      <link rel="icon" href="logo.png">
         <link href='https://fonts.googleapis.com/css?family=Amita' rel='stylesheet'>
         <style>
             body {margin: 0;}
