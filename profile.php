@@ -13,6 +13,7 @@
     <head>
         <title>Profile</title>
         <link rel="stylesheet" href="cssfiles/profile.css">
+      <link rel="icon" href="logo.png">
         <style>
             input{
                 width: 90%;
