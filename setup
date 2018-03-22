@@ -1,5 +1,5 @@
 now it came how to run this on your device download the codes from here then go to phpmyadmin and then paste the following query there.
-
+- download xampp server to your device and then put the codes in htdocs folder and then set up phpMyAdmin with the following.
 
 1. first create a database name "list" and then paste the following query:
 
