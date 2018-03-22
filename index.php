@@ -45,6 +45,8 @@ if(isset($_SESSION['email']))
              session_start();
              $_SESSION['email']=$a;
              $_SESSION['password']=$b;
+             $_SESSION['mobile']=$k['mobile'];
+             $_SESSION['college']=$k['college'];
              header("location:home.php");
          }
          else

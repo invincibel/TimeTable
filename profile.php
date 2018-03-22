@@ -101,7 +101,15 @@ ul.topnav li.right {float: right;}
                 </tr>
                 <tr>
                     <td>College:</td>
-                    <td>JIIT</td>
+                    <td><?php
+                        echo $_SESSION['college'];
+                        ?></td>
+                </tr>
+                <tr>
+                    <td>Mobile No.</td>
+                    <td><?php
+                        echo $_SESSION['mobile'];
+                        ?></td>
                 </tr>
                 <tr>
                     <td>Gender</td>
