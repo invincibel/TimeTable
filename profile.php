@@ -13,7 +13,11 @@
     <head>
         <title>Profile</title>
         <link rel="stylesheet" href="cssfiles/profile.css">
+<<<<<<< HEAD
                 <link rel="icon" href="logo.png">
+=======
+      <link rel="icon" href="logo.png">
+>>>>>>> d7fa5d75e9c07a9fa1cd3e7c87e2b384516b1f36
         <style>
             input{
                 width: 90%;

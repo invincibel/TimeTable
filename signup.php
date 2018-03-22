@@ -5,6 +5,7 @@
 <html>
     <head>
         <title>Sign_UP</title>
+      <link rel="icon" href="logo.png">
         <link rel="stylesheet" href="cssfiles/sign.css">
         <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Aguafina Script' rel='stylesheet'>
